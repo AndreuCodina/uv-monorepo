@@ -1,4 +1,7 @@
-from domain.domain_printer import DomainPrinter
+
+
+from domain.src.domain.domain_printer import DomainPrinter
+
 
 def main():
     print("Hello from helloworld1!")
